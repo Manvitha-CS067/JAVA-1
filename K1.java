@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public K1.java Main {
+public class K1{
     public static void main(String[] args) {
         
         // List1: [65, 66, ..., 90]
