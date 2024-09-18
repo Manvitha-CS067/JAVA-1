@@ -25,7 +25,7 @@ class SMS{
     String message2=" from the ATM at ";
     return (message1+message2);}}
   
-public class k3{
+public class K3{
   public static void main(String[] args){
     LocalDateTime time1=LocalDateTime.now();
     BankAccount acc1=new BankAccount(500);
