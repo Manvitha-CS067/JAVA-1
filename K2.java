@@ -2,7 +2,7 @@ import java.io.*;
 import java.lang.*;
 import java.lang.Math;
 import java.util.Scanner;
-public class k2{
+public class K2{
     public static void main(String[] args)
     {
         double num1, num2;
