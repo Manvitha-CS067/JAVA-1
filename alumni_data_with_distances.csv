@@ -1,0 +1,1001 @@
+Name,Location,RSVP,Past_Attendance,Attended,Distance
+Raghav Rao,Aligarh,No,Yes,Yes,1691.23
+Arjun Prasad,Guntur,No,No,Yes,709.46
+Kavita Sharma,Ahmedabad,No,No,Yes,1144.31
+Meera Khan,Sivasagar,Yes,No,Yes,2584.53
+Sneha Yadav,Ghazipur,No,No,Yes,1672.01
+Zayan Aggarwal,Asansol,Yes,No,Yes,1748.26
+Saurabh Naidu,Dehradun,No,Yes,Yes,1955.72
+Laxman Bhatt,"Chengdu, China",No,No,Yes,3584.46
+Sneha Yadav,"Rotterdam, Netherlands",No,No,Yes,7543.35
+Devendra Thakur,Ranchi,Yes,No,Yes,1600.57
+Dilip Prasad,"Marseille, France",Yes,Yes,Yes,7378.63
+Charulata Menon,"Melbourne, Australia",Yes,Yes,Yes,9201.73
+Jeevan Reddy,"Hanoi, Vietnam",No,Yes,Yes,3414.49
+Samar Nair,"Calgary, Canada",No,Yes,Yes,12866.2
+Barkha Shetty,Belgaum,No,Yes,Yes,327.81
+Aniket Sinha,Dantewada,Yes,No,Yes,959.99
+Tanvi Mishra,Guwahati,No,No,Yes,2297.74
+Sneha Yadav,Bilaspur,Yes,Yes,Yes,1282.13
+Vandana Rao,Pithoragarh,No,No,Yes,1992.11
+Chirag Sinha,"Helsinki, Finland",Yes,No,Yes,6624.31
+Urvashi Naidu,"Busan, South Korea",Yes,No,Yes,5955.32
+Kiran Reddy,Rishikesh,No,Yes,Yes,1936.58
+Bina Chauhan,Kurukshetra,No,No,Yes,1899.65
+Lokesh Aggarwal,"Busan, South Korea",Yes,No,Yes,5955.32
+Yamini Shetty,Ludhiana,Yes,No,Yes,1995.3
+Omkar Khan,Durgapur,Yes,No,Yes,1765.71
+Charulata Menon,Basti,No,Yes,Yes,1737.41
+Ishita Nair,Raebareli,Yes,Yes,Yes,1615.24
+Om Gupta,Bareilly,Yes,No,Yes,1784.52
+Farida Aggarwal,"Victoria, Canada",No,Yes,Yes,12976.59
+Aarohi Sinha,"Austin, USA",No,No,Yes,15160.97
+Aarohi Sinha,"Porto Alegre, Brazil",No,Yes,Yes,14186.38
+Jaya Mehta,Almora,No,No,Yes,1918.02
+Farah Kapoor,Lucknow,Yes,No,Yes,1666.92
+Vaishali Yadav,Varanasi,Yes,No,Yes,1619.33
+Mona Deshmukh,Surat,Yes,No,Yes,942.96
+Lata Gupta,Dharwad,Yes,Yes,Yes,273.45
+Nisha Verma,Aligarh,Yes,No,Yes,1691.23
+Divya Menon,"New York City, USA",No,No,Yes,13261.27
+Jatin Iyer,"Chicago, USA",No,No,Yes,13679.48
+Farzana Sinha,"Luxembourg City, Luxembourg",Yes,No,Yes,7394.2
+Yashwant Iyer,"Tashkent, Uzbekistan",No,Yes,Yes,3193.49
+Raghav Reddy,Kharagpur,No,Yes,Yes,1681.57
+Jaya Jha,Bhubaneswar,No,Yes,Yes,1425.5
+Nikhil Verma,Junagadh,Yes,No,Yes,1061.05
+Ramesh Iyer,"Seattle, USA",No,Yes,Yes,13088.68
+Mona Deshmukh,"Dubai, UAE",Yes,Yes,Yes,2464.59
+Harini Thakur,Mehsana,No,No,Yes,1211.58
+Hardik Reddy,"Calgary, Canada",No,No,Yes,12866.2
+Bhuvan Thakur,"Brussels, Belgium",No,No,Yes,7537.36
+Yamini Shetty,New Delhi,Yes,Yes,Yes,1758.65
+Yasmin Mishra,"Shenzhen, China",No,No,Yes,4278.2
+Farida Aggarwal,Hamirpur,Yes,Yes,Yes,1519.71
+Nitin Reddy,"Marseille, France",No,Yes,Yes,7378.63
+Aarohi Sinha,Etah,Yes,No,Yes,1667.09
+Harini Thakur,"Zurich, Switzerland",Yes,Yes,Yes,7182.56
+Charulata Menon,Rishikesh,No,No,Yes,1936.58
+Pranav Deshmukh,Midnapore,No,No,Yes,1688.8
+Inderjit Kapoor,"Milan, Italy",No,Yes,Yes,7102.28
+Farah Kapoor,"Zurich, Switzerland",No,Yes,Yes,7182.56
+Anirudh Chauhan,Hazaribagh,No,Yes,Yes,1668.85
+Vidya Iyer,Sitapur,No,Yes,Yes,1730.86
+Gopal Deshmukh,"Medellín, Colombia",No,No,Yes,16131.4
+Jeevan Reddy,"Toronto, Canada",Yes,Yes,Yes,13219.41
+Jeevan Goswami,Mandsaur,No,No,Yes,1257.43
+Farzana Sinha,"San Francisco, USA",Yes,Yes,Yes,14112.29
+Nisha Verma,"San Francisco, USA",Yes,Yes,Yes,14112.29
+Nirav Das,"Almaty, Kazakhstan",No,Yes,Yes,3366.77
+Chitra Kapoor,"Christchurch, New Zealand",Yes,Yes,Yes,11612.59
+Dilip Prasad,Rewari,Yes,Yes,Yes,1701.76
+Farah Kapoor,Asansol,No,Yes,Yes,1748.26
+Aaditya Sharma,"Muscat, Oman",Yes,No,Yes,2101.68
+Harsh Bhatt,"Bali, Indonesia",Yes,Yes,Yes,5036.11
+Pankaj Mishra,"Eindhoven, Netherlands",No,No,Yes,7467.58
+Bhavna Thakur,Seoni,Yes,No,Yes,1157.21
+Chandan Aggarwal,"Cebu, Philippines",No,Yes,Yes,5338.59
+Deepak Deshmukh,Karimnagar,No,Yes,Yes,763.68
+Omkar Prasad,Gandhinagar,Yes,No,Yes,1164.64
+Pranav Shetty,"Porto, Portugal",No,Yes,Yes,8534.56
+Vihan Sinha,"Budapest, Hungary",No,Yes,Yes,6414.19
+Zohra Das,"Tunis, Tunisia",No,Yes,Yes,6912.56
+Ramesh Iyer,Deoria,No,Yes,Yes,1761.7
+Faisal Goswami,"Waterloo, Canada",Yes,Yes,Yes,13281.33
+Dipti Chauhan,"Minneapolis, USA",Yes,No,Yes,13482.98
+Dipti Chauhan,Bhubaneswar,Yes,Yes,Yes,1425.5
+Omkar Prasad,Korba,No,No,Yes,1344.98
+Parul Khan,Bhubaneswar,Yes,No,Yes,1425.5
+Meera Reddy,Barmer,Yes,Yes,Yes,1453.91
+Bhavya Nair,"Denver, USA",Yes,No,Yes,14175.12
+Isha Goswami,"Rome, Italy",Yes,No,Yes,6781.0
+Eklavya Aggarwal,Navsari,Yes,No,Yes,912.85
+Ramesh Iyer,Vadodara,No,Yes,Yes,1053.34
+Hina Reddy,Hardoi,No,No,Yes,1687.62
+Zara Nair,"Bucharest, Romania",Yes,No,Yes,5785.14
+Chirag Mehta,Jaipur,Yes,Yes,Yes,1553.31
+Ishita Nair,Kullu,No,No,Yes,2121.51
+Tarun Shetty,Bhavnagar,No,Yes,Yes,1021.8
+Ekta Thakur,Mandsaur,No,Yes,Yes,1257.43
+Imran Aggarwal,Jamshedpur,Yes,No,Yes,1624.45
+Bhaskar Kapoor,"Madrid, Spain",No,Yes,Yes,8127.57
+Oma Nair,Basti,No,No,Yes,1737.41
+Faisal Goswami,"Seoul, South Korea",No,No,Yes,5826.0
+Juhi Deshmukh,Solan,No,Yes,Yes,7675.21
+Utkarsh Mishra,Mussoorie,Yes,Yes,Yes,1970.64
+Yasmin Iyer,Ujjain,Yes,Yes,Yes,1141.32
+Raghav Rao,Varanasi,No,Yes,Yes,1619.33
+Omkar Bhatt,"Alexandria, Egypt",No,Yes,Yes,5019.65
+Tarun Shetty,Baramulla,No,Yes,Yes,2359.17
+Govind Sinha,"Lima, Peru",No,Yes,Yes,16980.51
+Brijesh Mishra,"Prague, Czech Republic",Yes,Yes,Yes,6817.29
+Uma Das,"Dublin, Ireland",No,No,Yes,8277.42
+Pranav Shetty,"Krakow, Poland",No,No,Yes,6441.84
+Saurabh Naidu,"Copenhagen, Denmark",No,No,Yes,7105.24
+Eklavya Chauhan,"Kampala, Uganda",No,No,Yes,4867.14
+Darshan Desai,Hyderabad,Yes,Yes,Yes,627.06
+Gaurav Verma,Bhiwadi,Yes,Yes,Yes,1705.29
+Girish Menon,"Vilnius, Lithuania",Yes,No,Yes,6312.78
+Onkar Nair,"Canberra, Australia",Yes,No,Yes,9448.21
+Devansh Goswami,"Copenhagen, Denmark",Yes,Yes,Yes,7105.24
+Yash Das,Nashik,Yes,Yes,Yes,793.59
+Tanmay Chauhan,Hisar,Yes,Yes,Yes,1810.36
+Kavita Bhatt,Anantapur,No,No,Yes,342.91
+Lavanya Bhatt,"Geneva, Switzerland",Yes,Yes,Yes,7347.1
+Kamal Jha,"Perth, Australia",Yes,No,Yes,6614.61
+Jaidev Khan,"Manchester, UK",No,Yes,Yes,8010.68
+Sandeep Prasad,Jammu,Yes,No,Yes,2193.33
+Uday Sharma,"Guangzhou, China",No,No,Yes,4206.65
+Leela Deshmukh,Amritsar,No,Yes,Yes,2073.25
+Tanmay Mehta,"San Francisco, USA",Yes,Yes,Yes,14112.29
+Uday Kapoor,Dehradun,No,No,Yes,1955.72
+Samar Iyer,"Paris, France",No,Yes,Yes,7661.31
+Urvashi Naidu,"Quebec City, Canada",Yes,No,Yes,12579.03
+Farida Aggarwal,"Adelaide, Australia",No,Yes,Yes,8549.82
+Lalit Rao,Navsari,Yes,No,Yes,912.85
+Yuvraj Chauhan,"Munich, Germany",Yes,Yes,Yes,6973.19
+Zeeshan Shetty,"Medellín, Colombia",No,Yes,Yes,16131.4
+Anirudh Chauhan,Vijayawada,Yes,Yes,Yes,736.92
+Saurabh Naidu,"Calgary, Canada",No,No,Yes,12866.2
+Prerna Mehta,Goa (general),No,Yes,Yes,303.36
+Charu Aggarwal,Rewa,Yes,Yes,Yes,1479.49
+Nikhil Verma,Moradabad,Yes,Yes,Yes,1814.51
+Jaya Jha,Bilaspur,No,Yes,Yes,1282.13
+Bhavna Thakur,Katni,No,Yes,Yes,1324.82
+Deepika Goswami,"Lima, Peru",No,No,Yes,16980.51
+Kiran Reddy,Agartala,Yes,Yes,Yes,2111.76
+Eklavya Chauhan,"Edinburgh, UK",No,No,Yes,8083.0
+Chandan Aggarwal,"Cambridge, UK",Yes,No,Yes,7843.87
+Oorja Rao,"Johannesburg, South Africa",No,Yes,Yes,6663.02
+Rashmi Verma,"Christchurch, New Zealand",Yes,Yes,Yes,11612.59
+Farzana Sinha,"Melbourne, Australia",Yes,Yes,Yes,9201.73
+Bhavna Thakur,"Chiang Mai, Thailand",Yes,Yes,Yes,2662.35
+Harish Chauhan,Gangtok,No,No,Yes,2144.63
+Ekta Chauhan,"Jeddah, Saudi Arabia",No,No,Yes,3903.48
+Harish Sharma,Singapore,No,No,Yes,3439.48
+Vivek Rao,"Rosario, Argentina",No,Yes,Yes,15001.25
+Tanmay Mehta,Hamirpur,No,Yes,Yes,1519.71
+Meera Khan,"Zurich, Switzerland",Yes,Yes,Yes,7182.56
+Aarav Patel,Warangal,No,Yes,Yes,757.08
+Bhavya Nair,"Auckland, New Zealand",Yes,No,Yes,11738.38
+Yash Thakur,Srinagar,Yes,No,Yes,2343.75
+Vidya Iyer,Beawar,No,No,Yes,1460.73
+Rohan Sharma,Deoria,No,No,Yes,1761.7
+Lokesh Gupta,Nainital,Yes,No,Yes,1885.39
+Vivek Rao,Bharatpur,No,No,Yes,1582.68
+Isha Goswami,Allahabad (Prayagraj),No,No,Yes,1567.71
+Kamal Jha,Bhilwara,Yes,Yes,Yes,1393.12
+Nitin Reddy,Jorhat,Yes,Yes,Yes,2534.96
+Fardeen Kapoor,"Nagoya, Japan",Yes,No,Yes,6661.39
+Bhavna Thakur,"Portland, USA",Yes,No,Yes,13298.63
+Rashmi Verma,Kharagpur,No,Yes,Yes,1681.57
+Ramesh Iyer,Vapi,No,No,Yes,851.21
+Sonia Rao,Ajmer,No,Yes,Yes,1500.77
+Raghav Nair,"Cork, Ireland",No,No,Yes,8432.6
+Jatin Iyer,"Dubai, UAE",No,Yes,Yes,2464.59
+Hina Aggarwal,Hamirpur,No,Yes,Yes,1519.71
+Yamini Shetty,Jhansi,No,No,Yes,1452.18
+Vihan Gupta,Hardoi,No,Yes,Yes,1687.62
+Uttam Verma,"Cork, Ireland",No,Yes,Yes,8432.6
+Lavanya Bhatt,Panaji,No,No,Yes,306.75
+Chandan Aggarwal,"Guangzhou, China",No,Yes,Yes,4206.65
+Indu Bhatt,"Abuja, Nigeria",Yes,No,Yes,7355.58
+Vidya Iyer,Hubli,Yes,No,Yes,271.43
+Advik Gupta,Aurangabad,Yes,No,Yes,1655.52
+Tanvi Verma,Nagpur,Yes,No,Yes,1016.24
+Jaya Mehta,Kharagpur,Yes,Yes,Yes,1681.57
+Chitra Kapoor,Rajkot,No,Yes,Yes,1124.66
+Tanvi Mishra,"Penang, Malaysia",Yes,Yes,Yes,2909.93
+Nisha Verma,"Cebu, Philippines",No,Yes,Yes,5338.59
+Sonia Rao,"Córdoba, Argentina",No,No,Yes,15368.2
+Eshwar Shetty,"Toronto, Canada",Yes,No,Yes,13219.41
+Girish Mehta,Hoshangabad,No,Yes,Yes,1129.28
+Jaya Mehta,Ajmer,Yes,No,Yes,1500.77
+Rohan Sharma,Dharwad,No,Yes,Yes,273.45
+Trisha Iyer,Patna,Yes,No,Yes,1770.09
+Damini Sinha,Moradabad,Yes,No,Yes,1814.51
+Rashmi Gupta,Unnao,No,No,Yes,1627.01
+Pooja Sharma,Bahraich,Yes,No,Yes,1779.44
+Farhan Khan,"Toronto, Canada",Yes,Yes,Yes,13219.41
+Chandan Aggarwal,Ratlam,Yes,Yes,Yes,1172.0
+Farah Kapoor,Hisar,Yes,Yes,Yes,1810.36
+Kartik Verma,"Phoenix, USA",No,Yes,Yes,14821.35
+Harish Chauhan,Chhindwara,Yes,No,Yes,1110.22
+Uday Kapoor,"Marseille, France",Yes,Yes,Yes,7378.63
+Chhavi Nair,Allahabad (Prayagraj),No,No,Yes,1567.71
+Govind Sinha,"Bogotá, Colombia",Yes,No,Yes,16082.83
+Tejas Yadav,"Kaohsiung, Taiwan",Yes,No,Yes,4918.91
+Yashwant Iyer,Katni,Yes,No,Yes,1324.82
+Farhan Khan,"Chiang Mai, Thailand",Yes,No,Yes,2662.35
+Nisha Verma,"Sydney, Australia",No,Yes,Yes,9580.09
+Mitali Mehta,Hong Kong,Yes,Yes,Yes,4288.73
+Rashmi Gupta,"Sofia, Bulgaria",No,Yes,Yes,5931.9
+Oindrila Gupta,"Miami, USA",Yes,No,Yes,14950.04
+Ishaan Rao,Chaibasa,Yes,Yes,Yes,1576.24
+Barkha Shetty,"Taipei, Taiwan",Yes,Yes,Yes,5071.48
+Aarushi Shetty,"Lisbon, Portugal",No,Yes,Yes,8608.42
+Tanmay Chauhan,"Denver, USA",Yes,No,Yes,14175.12
+Chandan Aggarwal,Chandigarh,No,Yes,Yes,1983.09
+Tarun Shetty,"Belo Horizonte, Brazil",No,Yes,Yes,13483.85
+Simran Gupta,"Cape Town, South Africa",Yes,Yes,Yes,7906.46
+Eklavya Chauhan,"Lima, Peru",Yes,No,Yes,16980.51
+Faisal Goswami,Hamirpur,No,Yes,Yes,1519.71
+Farida Aggarwal,"Barcelona, Spain",Yes,No,Yes,7630.8
+Uday Kapoor,"Nairobi, Kenya",No,Yes,Yes,4484.65
+Prerna Mehta,Tezpur,No,Yes,Yes,2407.76
+Urvashi Naidu,Siliguri,No,No,Yes,2083.95
+Raghav Reddy,Unnao,No,No,Yes,1627.01
+Omkar Bhatt,"Seoul, South Korea",No,No,Yes,5826.0
+Zayan Prasad,"Tel Aviv, Israel",Yes,No,Yes,4600.18
+Feroz Nair,"Edinburgh, UK",Yes,No,Yes,8083.0
+Tanmay Mehta,Udaipur,Yes,Yes,Yes,1297.03
+Bhavesh Shetty,"Córdoba, Argentina",Yes,Yes,Yes,15368.2
+Devansh Goswami,"Melbourne, Australia",Yes,Yes,Yes,9201.73
+Lalit Mehta,Dhamtari,Yes,Yes,Yes,1115.76
+Fardeen Kapoor,Vijayawada,Yes,No,Yes,736.92
+Faizan Nair,"Victoria, Canada",No,Yes,Yes,12976.59
+Bhavna Thakur,Mussoorie,No,Yes,Yes,1970.64
+Naveen Gupta,"Cebu, Philippines",No,No,Yes,5338.59
+Madhav Mishra,"Jakarta, Indonesia",No,Yes,Yes,4118.31
+Yamini Shetty,"Medellín, Colombia",Yes,Yes,Yes,16131.4
+Yamini Shetty,"Rotterdam, Netherlands",No,No,Yes,7543.35
+Brijesh Mishra,"Hangzhou, China",Yes,Yes,Yes,5032.51
+Yuvraj Chauhan,Ambala,No,Yes,Yes,1944.52
+Madhur Deshmukh,"Lisbon, Portugal",Yes,No,Yes,8608.42
+Harish Chauhan,Madurai,No,No,Yes,485.42
+Pankaj Mishra,Haldia,No,No,Yes,1726.05
+Aarushi Shetty,"Milan, Italy",No,Yes,Yes,7102.28
+Prerna Mehta,"Quebec City, Canada",No,No,Yes,12579.03
+Madhav Mishra,Jorhat,Yes,No,Yes,2534.96
+Yasmin Iyer,"Lima, Peru",No,No,Yes,16980.51
+Kavita Sharma,Hubli,Yes,No,Yes,271.43
+Farah Kapoor,Tehri,Yes,No,Yes,1970.36
+Kavita Sharma,"Sydney, Australia",No,Yes,Yes,9580.09
+Darshan Desai,Nahan,No,No,Yes,1970.01
+Arjun Prasad,Aizawl,Yes,Yes,Yes,2234.48
+Manish Iyer,"Canberra, Australia",No,Yes,Yes,9448.21
+Zeeshan Shetty,Goa (general),Yes,Yes,Yes,303.36
+Yasmin Mishra,"New York City, USA",No,No,Yes,13261.27
+Hina Aggarwal,Pulwama,No,No,Yes,2329.88
+Damini Sinha,Solan,Yes,Yes,Yes,7675.21
+Kamal Jha,Imphal,Yes,No,Yes,2397.98
+Jeevan Goswami,Nashik,Yes,Yes,Yes,793.59
+Hardik Reddy,"Addis Ababa, Ethiopia",No,No,Yes,3965.97
+Kamal Jha,New Delhi,Yes,No,Yes,1758.65
+Uttam Verma,Kolhapur,No,Yes,Yes,424.41
+Chetanya Nair,Navsari,Yes,Yes,Yes,912.85
+Parul Khan,"Bali, Indonesia",No,Yes,Yes,5036.11
+Nandini Reddy,"Buenos Aires, Argentina",No,Yes,Yes,14753.89
+Eklavya Chauhan,"Incheon, South Korea",No,Yes,Yes,5799.64
+Chandan Das,Mandi,No,Yes,Yes,2086.69
+Damini Sinha,Tinsukia,No,No,Yes,2674.85
+Uma Das,"Christchurch, New Zealand",No,Yes,Yes,11612.59
+Oma Nair,"Victoria, Canada",No,Yes,Yes,12976.59
+Omkar Prasad,Coimbatore,No,Yes,Yes,312.09
+Samar Menon,"Gothenburg, Sweden",No,No,Yes,7203.27
+Vidya Iyer,Bhilwara,Yes,No,Yes,1393.12
+Oindrila Gupta,"Jeddah, Saudi Arabia",Yes,Yes,Yes,3903.48
+Ishan Nair,Dhamtari,No,No,Yes,1115.76
+Nirav Das,Haldia,No,No,Yes,1726.05
+Prerna Mehta,Indore,Yes,No,Yes,1090.64
+Tanvi Mishra,"Montreal, Canada",Yes,Yes,Yes,12803.12
+Chandan Aggarwal,"Wellington, New Zealand",Yes,No,Yes,11772.73
+Vaishali Yadav,"Denver, USA",No,No,Yes,14175.12
+Vandana Rao,Nashik,No,No,Yes,793.59
+Ishaan Rao,"Cebu, Philippines",No,Yes,Yes,5338.59
+Meera Reddy,"Budapest, Hungary",No,Yes,Yes,6406.03
+Meera Reddy,Nizamabad,No,Yes,Yes,725.72
+Mona Deshmukh,Eluru,No,No,Yes,793.85
+Samar Nair,Dibrugarh,Yes,No,Yes,2636.82
+Tara Khan,"Stuttgart, Germany",Yes,Yes,Yes,7160.43
+Jaidev Khan,"Dublin, Ireland",Yes,Yes,Yes,8277.42
+Kunal Naidu,Banda,Yes,Yes,Yes,1510.53
+Nisha Verma,"Hanoi, Vietnam",Yes,No,Yes,3414.49
+Esha Jha,Jodhpur,Yes,Yes,Yes,1493.69
+Saurabh Naidu,"Brno, Czech Republic",Yes,No,Yes,6640.82
+Hardik Reddy,"Johannesburg, South Africa",Yes,Yes,Yes,6663.02
+Imran Deshmukh,Meerut,Yes,No,Yes,1806.59
+Saurabh Naidu,Raebareli,No,Yes,Yes,1615.24
+Vidya Iyer,Haridwar,Yes,Yes,Yes,1915.35
+Zohra Das,Kanpur,Yes,Yes,Yes,1604.8
+Oma Nair,"Incheon, South Korea",Yes,Yes,Yes,5799.64
+Chirag Sinha,"Vienna, Austria",No,No,Yes,6627.98
+Girish Menon,Ambala,No,Yes,Yes,1944.52
+Geeta Sinha,"Kuala Lumpur, Malaysia",Yes,No,Yes,3146.08
+Aditi Prasad,Kakinada,No,Yes,Yes,910.32
+Garima Deshmukh,"Rabat, Morocco",Yes,Yes,Yes,8463.44
+Farah Kapoor,"Manila, Philippines",No,No,Yes,4983.42
+Manish Sharma,Moradabad,Yes,Yes,Yes,1814.51
+Vivek Rao,Jaipur,Yes,No,Yes,1553.31
+Jeevan Reddy,"Zurich, Switzerland",Yes,Yes,Yes,7182.56
+Damini Sinha,"Frankfurt, Germany",Yes,No,Yes,7221.38
+Zayan Aggarwal,"Dublin, Ireland",Yes,Yes,Yes,8277.42
+Sandeep Prasad,"Osaka, Japan",Yes,Yes,Yes,6528.98
+Zeeshan Shetty,"Dubai, UAE",Yes,No,Yes,2464.59
+Abhishek Yadav,"Athens, Greece",Yes,Yes,Yes,5751.53
+Chandan Aggarwal,"Munich, Germany",No,No,Yes,6973.19
+Aakash Goswami,"Hamburg, Germany",No,No,Yes,7207.36
+Chitra Kapoor,"Christchurch, New Zealand",Yes,Yes,Yes,11612.59
+Nikhil Verma,Alwar,No,Yes,Yes,1615.74
+Farah Kapoor,"Durban, South Africa",Yes,No,Yes,6671.54
+Zayan Prasad,"Caracas, Venezuela",Yes,No,Yes,15072.33
+Aakash Goswami,Bankura,No,No,Yes,1727.24
+Zara Nair,Bangalore,Yes,No,Yes,300.3
+Jatin Iyer,"Lima, Peru",No,Yes,Yes,16980.51
+Oma Nair,"Shenzhen, China",No,Yes,Yes,4278.2
+Omkar Khan,"Mombasa, Kenya",No,Yes,Yes,4319.33
+Jeevan Reddy,"Phoenix, USA",No,No,Yes,14821.35
+Eshan Nair,"Christchurch, New Zealand",Yes,Yes,Yes,11612.59
+Pooja Iyer,Ranchi,No,No,Yes,1600.57
+Zeeshan Shetty,"Brno, Czech Republic",No,Yes,Yes,6640.82
+Siddharth Gupta,Dimapur,Yes,No,Yes,2442.44
+Aarohi Sinha,Tirupati,No,No,Yes,501.24
+Nirav Das,Pondicherry,No,Yes,Yes,582.85
+Vandana Rao,Jorhat,No,Yes,Yes,2534.96
+Esha Jha,Banda,Yes,No,Yes,1510.53
+Jasmine Goswami,Jaipur,No,No,Yes,1553.31
+Zayan Aggarwal,"Halifax, Canada",No,Yes,Yes,12381.99
+Umesh Nair,"Rome, Italy",No,No,Yes,6781.0
+Lavanya Bhatt,Leh,No,No,Yes,2369.81
+Vihan Mishra,"Johannesburg, South Africa",No,Yes,Yes,6663.02
+Ritika Naidu,Haridwar,No,Yes,Yes,1915.35
+Lalit Rao,Ahmedabad,Yes,Yes,Yes,1144.31
+Harini Thakur,"Auckland, New Zealand",Yes,Yes,Yes,11738.38
+Chetanya Nair,Kanpur,No,No,Yes,1604.8
+Deepak Deshmukh,Panipat,No,Yes,Yes,1837.55
+Imran Deshmukh,Kohima,No,Yes,Yes,2460.95
+Heena Jha,Jaipur,Yes,Yes,Yes,1553.31
+Chandan Das,"Caracas, Venezuela",Yes,No,Yes,15072.33
+Kunal Naidu,Shahjahanpur,Yes,Yes,Yes,1736.68
+Ananya Menon,Ghazipur,No,Yes,Yes,1672.01
+Yuvraj Chauhan,Hardoi,Yes,No,Yes,1687.62
+Abhinav Singh,"Rome, Italy",Yes,Yes,Yes,6781.0
+Indu Bhatt,Haldia,No,No,Yes,1726.05
+Manish Sharma,Tezpur,No,No,Yes,2407.76
+Juhi Deshmukh,Silvassa,No,No,Yes,838.04
+Yasmin Iyer,Panipat,Yes,No,Yes,1837.55
+Eshwar Reddy,Jhunjhunu,No,Yes,Yes,1680.1
+Oindrila Gupta,"Dhaka, Bangladesh",No,No,Yes,2031.18
+Gitanjali Thakur,"Durban, South Africa",No,No,Yes,6671.54
+Tushar Khan,"Toronto, Canada",Yes,Yes,Yes,13219.41
+Vihan Sinha,Giridih,No,Yes,Yes,1735.53
+Uttam Verma,Panaji,No,Yes,Yes,306.75
+Zayan Aggarwal,Port Blair,No,Yes,Yes,1949.91
+Devendra Thakur,Banda,Yes,No,Yes,1510.53
+Eklavya Aggarwal,Ranchi,No,Yes,Yes,1600.57
+Kavita Sharma,Palwal,Yes,No,Yes,1696.34
+Falguni Bhatt,"Bologna, Italy",Yes,No,Yes,6918.04
+Bhaskar Kapoor,Faizabad,Yes,Yes,Yes,2966.36
+Dilip Prasad,"Manila, Philippines",Yes,No,Yes,4983.42
+Leela Deshmukh,Dibrugarh,No,Yes,Yes,2636.82
+Harish Chauhan,Hong Kong,Yes,Yes,Yes,4288.73
+Tanmay Chauhan,Sultanpur,No,No,Yes,1667.03
+Deepika Goswami,"Almaty, Kazakhstan",No,Yes,Yes,3366.77
+Sandeep Prasad,"Prague, Czech Republic",Yes,No,Yes,6817.29
+Eklavya Aggarwal,Bhubaneswar,No,No,Yes,1425.5
+Yashwant Iyer,Kathua,Yes,Yes,Yes,2156.48
+Aniket Sinha,"Rosario, Argentina",No,No,Yes,15001.25
+Dhanush Menon,Shivpuri,Yes,No,Yes,1414.09
+Chhavi Nair,Dharamshala,No,No,Yes,2142.63
+Faizan Nair,"Jakarta, Indonesia",No,No,Yes,4118.31
+Sonia Rao,"Manila, Philippines",Yes,Yes,Yes,4983.42
+Deepika Goswami,Porbandar,Yes,Yes,Yes,1114.92
+Abhishek Yadav,"Munich, Germany",No,Yes,Yes,6973.19
+Oindrila Gupta,Farrukhabad,No,No,Yes,1678.6
+Zubin Kapoor,Satna,No,No,Yes,1445.13
+Mohan Khan,Noida,No,Yes,Yes,1752.31
+Zaina Naidu,Jamshedpur,Yes,No,Yes,1624.45
+Chitra Kapoor,"Austin, USA",No,Yes,Yes,15160.97
+Ekta Thakur,Dhamtari,No,No,Yes,1115.76
+Aniket Sinha,Bharatpur,Yes,No,Yes,1582.68
+Brijesh Mishra,Silchar,Yes,Yes,Yes,2299.91
+Kavita Bhatt,"Miami, USA",No,No,Yes,14950.04
+Imran Deshmukh,"Rabat, Morocco",No,No,Yes,8463.44
+Pratap Mehta,"Halifax, Canada",Yes,Yes,Yes,12381.99
+Zaina Naidu,Tiruchirappalli,Yes,No,Yes,478.16
+Kajal Jha,"Colombo, Sri Lanka",Yes,Yes,Yes,858.45
+Zoravar Naidu,"Abu Dhabi, UAE",No,No,Yes,2504.4
+Abhishek Yadav,"Edmonton, Canada",Yes,Yes,Yes,12597.73
+Zohra Das,"Milan, Italy",No,No,Yes,7102.28
+Imran Deshmukh,"Canberra, Australia",Yes,No,Yes,9448.21
+Brijesh Mishra,"Frankfurt, Germany",Yes,No,Yes,7221.38
+Kajal Jha,"Detroit, USA",Yes,Yes,Yes,13485.93
+Ritika Naidu,Haridwar,Yes,Yes,Yes,1915.35
+Eshan Nair,Neemuch,Yes,No,Yes,1297.38
+Trisha Iyer,"Atlanta, USA",Yes,No,Yes,14395.12
+Pranav Shetty,"Auckland, New Zealand",No,No,Yes,11738.38
+Arjun Prasad,"Buenos Aires, Argentina",Yes,No,Yes,14753.89
+Imran Deshmukh,"Chicago, USA",Yes,No,Yes,13679.48
+Vidya Prasad,Sehore,Yes,Yes,Yes,1152.99
+Ishan Nair,Shillong,No,Yes,Yes,2269.09
+Manish Sharma,Navsari,Yes,No,Yes,912.85
+Omkar Bhatt,"Phoenix, USA",Yes,Yes,Yes,14821.35
+Govind Sinha,Haldia,Yes,Yes,Yes,1726.05
+Tushar Khan,Shimla,Yes,No,Yes,2028.27
+Prakash Rao,Dumka,Yes,No,Yes,1811.65
+Farah Kapoor,Goa (general),Yes,Yes,Yes,303.36
+Gaurav Verma,"Bali, Indonesia",Yes,Yes,Yes,5036.11
+Kajal Jha,"Krakow, Poland",Yes,No,Yes,6441.84
+Imran Deshmukh,"Johannesburg, South Africa",Yes,No,Yes,6663.02
+Abhishek Yadav,"Santiago, Chile",Yes,No,Yes,15855.3
+Tanvi Mishra,"Geneva, Switzerland",Yes,Yes,Yes,7347.1
+Yash Das,Mumbai,No,No,Yes,712.01
+Heena Jha,Saharanpur,No,Yes,Yes,1909.93
+Nitin Reddy,"Stockholm, Sweden",No,No,Yes,6928.45
+Chirag Sinha,"Kuala Lumpur, Malaysia",No,Yes,Yes,3146.08
+Zara Nair,"Valencia, Spain",No,Yes,Yes,7846.86
+Anirudh Chauhan,"Shanghai, China",No,Yes,Yes,5174.01
+Anirudh Chauhan,Jhansi,No,No,Yes,1452.18
+Chirag Mehta,"Santiago, Chile",No,No,Yes,15855.3
+Nirav Das,Bhavnagar,No,No,Yes,1021.8
+Mohan Goswami,Ballia,No,No,Yes,1732.04
+Nisha Verma,"Hamilton, New Zealand",No,No,Yes,11791.83
+Lokesh Gupta,"Minneapolis, USA",Yes,Yes,Yes,13482.98
+Rajesh Das,Jorhat,No,No,Yes,2534.96
+Nandini Reddy,"Wellington, New Zealand",Yes,Yes,Yes,11772.73
+Sonia Rao,"Belo Horizonte, Brazil",No,No,Yes,13483.85
+Divya Menon,Etawah,Yes,No,Yes,1590.63
+Lakshay Yadav,Neemuch,Yes,Yes,Yes,1297.38
+Zeeshan Shetty,"Chengdu, China",Yes,No,Yes,3584.46
+Abhinav Singh,Nainital,Yes,No,Yes,1885.39
+Saurabh Naidu,Gandhinagar,No,No,Yes,1164.64
+Aakash Goswami,"Colombo, Sri Lanka",Yes,No,Yes,858.45
+Gaurav Verma,"Nagoya, Japan",Yes,No,Yes,6661.39
+Hardik Reddy,"Gothenburg, Sweden",No,No,Yes,7203.27
+Isha Goswami,"Atlanta, USA",Yes,No,Yes,14395.12
+Farida Aggarwal,"Dubai, UAE",Yes,No,Yes,2464.59
+Dhanush Menon,Sonipat,Yes,Yes,Yes,1794.63
+Sandeep Prasad,Nashik,No,No,Yes,793.59
+Faisal Bhatt,"Valparaíso, Chile",No,Yes,Yes,15955.55
+Farida Aggarwal,Rudrapur,Yes,No,Yes,1838.92
+Chandan Das,Farrukhabad,Yes,Yes,Yes,1678.6
+Karan Thakur,Bharatpur,No,No,Yes,1582.68
+Tanvi Verma,Bilaspur,No,Yes,Yes,1282.13
+Manish Iyer,Kochi,Yes,Yes,Yes,359.39
+Ekta Chauhan,"Ottawa, Canada",Yes,No,Yes,12901.41
+Mona Deshmukh,Faizabad,No,Yes,Yes,2966.36
+Leela Nair,Rohtak,No,Yes,Yes,1779.08
+Nandini Reddy,"Canberra, Australia",No,No,Yes,9448.21
+Uday Yadav,"Riga, Latvia",Yes,Yes,Yes,6494.43
+Yasmin Mishra,Ballia,Yes,No,Yes,1732.04
+Raghav Rao,Silvassa,No,Yes,Yes,838.04
+Uday Sharma,Satna,No,No,Yes,1445.13
+Farah Kapoor,"Zurich, Switzerland",No,No,Yes,7182.56
+Jagdish Mehta,Itarsi,No,No,Yes,1117.09
+Charu Aggarwal,Betul,No,No,Yes,1042.73
+Harish Sharma,"Hanoi, Vietnam",No,Yes,Yes,3414.49
+Bharat Jha,Itanagar,Yes,No,Yes,2508.2
+Ishita Nair,"Penang, Malaysia",No,No,Yes,2909.93
+Yasmin Mishra,Ajmer,No,Yes,Yes,1500.77
+Gitanjali Goswami,Udaipur,No,Yes,Yes,1297.03
+Hina Reddy,"Cape Town, South Africa",No,Yes,Yes,7906.46
+Zaina Naidu,"Cebu, Philippines",Yes,No,Yes,5338.59
+Raghav Nair,Ujjain,No,Yes,Yes,1141.32
+Indu Bhatt,Aizawl,No,Yes,Yes,2234.48
+Chetanya Nair,"Toulouse, France",No,Yes,Yes,7697.73
+Zoravar Naidu,Jhansi,No,Yes,Yes,1452.18
+Zaina Naidu,Daltonganj,Yes,No,Yes,1567.97
+Falguni Bhatt,"Hangzhou, China",Yes,No,Yes,5032.51
+Omkar Prasad,Anantapur,Yes,No,Yes,342.91
+Brijesh Mishra,Jammu,No,Yes,Yes,2193.33
+Vidya Iyer,Alwar,No,Yes,Yes,1615.74
+Neha Sharma,Chaibasa,No,Yes,Yes,1576.24
+Dhanush Menon,"Paris, France",No,No,Yes,7661.31
+Zayan Prasad,Kakinada,Yes,Yes,Yes,910.32
+Farah Kapoor,Panaji,Yes,No,Yes,306.75
+Ekansh Jha,Belgaum,Yes,No,Yes,327.81
+Samar Iyer,"Nairobi, Kenya",No,Yes,Yes,4484.65
+Jagdish Sinha,Sonipat,Yes,No,Yes,1794.63
+Sandeep Prasad,"San Diego, USA",Yes,No,Yes,14796.67
+Parul Khan,"Toronto, Canada",Yes,Yes,Yes,13219.41
+Tanmay Mehta,"Canberra, Australia",No,Yes,Yes,9448.21
+Kamal Jha,Ghazipur,Yes,No,Yes,1672.01
+Urvashi Naidu,Vadodara,No,No,Yes,1053.34
+Omkar Prasad,"Athens, Greece",No,No,Yes,5751.53
+Nitin Reddy,Ujjain,Yes,No,Yes,1141.32
+Chandan Aggarwal,Junagadh,No,No,Yes,1061.05
+Lata Gupta,Visakhapatnam,Yes,No,Yes,1048.75
+Zaina Naidu,Rohtak,Yes,Yes,Yes,1779.08
+Tanmay Naidu,Kullu,Yes,Yes,Yes,2121.51
+Aniket Sinha,Ranchi,No,Yes,Yes,1600.57
+Zeeshan Shetty,"Vienna, Austria",Yes,No,Yes,6627.98
+Tarun Shetty,Raipur,Yes,Yes,Yes,1169.58
+Tushar Khan,Saharanpur,Yes,Yes,Yes,1909.93
+Harsha Thakur,Bhilwara,No,No,Yes,1393.12
+Garima Deshmukh,"Milan, Italy",No,No,Yes,7102.28
+Chetan Bhatt,Bhavnagar,Yes,No,Yes,1021.8
+Lokesh Gupta,Itarsi,No,Yes,Yes,1117.09
+Lalit Mehta,"Geneva, Switzerland",No,No,Yes,7347.1
+Lokesh Aggarwal,"Medellín, Colombia",No,Yes,Yes,16131.4
+Madhav Mishra,"Manchester, UK",Yes,Yes,Yes,8010.68
+Eshwar Reddy,"Paris, France",No,No,Yes,7661.31
+Yash Thakur,"Kampala, Uganda",No,Yes,Yes,4867.14
+Faisal Goswami,"Amsterdam, Netherlands",No,No,Yes,7521.79
+Uma Das,Banda,Yes,Yes,Yes,1510.53
+Garima Deshmukh,"Sydney, Australia",Yes,Yes,Yes,9580.09
+Uday Sharma,Silvassa,No,Yes,Yes,838.04
+Omkar Khan,"Accra, Ghana",Yes,No,Yes,8263.33
+Faizan Nair,Gonda,No,No,Yes,1735.82
+Zoravar Naidu,"Minneapolis, USA",Yes,Yes,Yes,13482.98
+Faisal Bhatt,Ambala,Yes,Yes,Yes,1944.52
+Lalit Mehta,"Manchester, UK",Yes,Yes,Yes,8010.68
+Yogesh Prasad,"Valparaíso, Chile",Yes,No,Yes,15955.55
+Aakash Goswami,"Medellín, Colombia",No,Yes,Yes,16131.4
+Zubin Kapoor,"Cork, Ireland",No,No,Yes,8432.6
+Girish Mehta,Kavaratti,No,No,Yes,354.64
+Gopal Jha,Kakinada,No,Yes,Yes,910.32
+Yamini Shetty,Bharatpur,No,No,Yes,1582.68
+Devendra Thakur,"Taipei, Taiwan",No,No,Yes,5071.48
+Vidya Iyer,Unnao,Yes,No,Yes,1627.01
+Oma Nair,Itanagar,Yes,No,Yes,2508.2
+Pranav Verma,Dharwad,Yes,No,Yes,273.45
+Lalit Rao,Varanasi,Yes,No,Yes,1619.33
+Zaina Naidu,Sambhal,Yes,Yes,Yes,1759.95
+Harsh Bhatt,Kathua,Yes,Yes,Yes,2156.48
+Ekta Thakur,Dharwad,No,No,Yes,273.45
+Yash Thakur,"Rio de Janeiro, Brazil",No,No,Yes,13421.77
+Govind Sinha,"Riga, Latvia",No,Yes,Yes,6494.43
+Meera Reddy,Salem,Yes,No,Yes,13349.78
+Vaishali Yadav,Haldwani,No,Yes,Yes,1868.38
+Jatin Iyer,"Bangkok, Thailand",No,Yes,Yes,2777.78
+Harini Thakur,Sonipat,No,No,Yes,1794.63
+Keshav Nair,"Quito, Ecuador",No,Yes,Yes,16773.88
+Chhavi Nair,Haldwani,No,Yes,Yes,1868.38
+Tanvi Verma,"Eindhoven, Netherlands",Yes,No,Yes,7467.58
+Eshwar Shetty,"Lagos, Nigeria",No,Yes,Yes,7853.43
+Dipti Chauhan,"Wellington, New Zealand",Yes,Yes,Yes,11772.73
+Anirudh Chauhan,"Salt Lake City, USA",Yes,Yes,Yes,14021.65
+Gopal Jha,Ajmer,Yes,Yes,Yes,1500.77
+Sonia Rao,"Austin, USA",Yes,No,Yes,15160.97
+Prakash Rao,"Kaohsiung, Taiwan",Yes,No,Yes,4918.91
+Isha Goswami,Ahmedabad,Yes,No,Yes,1144.31
+Jeevan Goswami,"Atlanta, USA",No,No,Yes,14395.12
+Tanvi Verma,"Kaohsiung, Taiwan",Yes,Yes,Yes,4918.91
+Bhavesh Shetty,"Edinburgh, UK",Yes,No,Yes,8083.0
+Farah Kapoor,Moradabad,Yes,No,Yes,1814.51
+Naveen Gupta,"Krakow, Poland",No,No,Yes,6441.84
+Tushar Khan,"Nairobi, Kenya",No,No,Yes,4484.65
+Hitesh Reddy,Malda,No,No,Yes,1933.4
+Faizan Nair,"Quito, Ecuador",Yes,Yes,Yes,16773.88
+Bhavna Thakur,"Vilnius, Lithuania",No,Yes,Yes,6312.78
+Kiran Reddy,Port Blair,No,No,Yes,1949.91
+Nikhil Verma,"Zurich, Switzerland",No,No,Yes,7182.56
+Rohan Sharma,Tiruchirappalli,No,No,Yes,478.16
+Madhur Deshmukh,"Beijing, China",No,Yes,Yes,5054.52
+Zayan Aggarwal,Agra,Yes,No,Yes,1612.7
+Simran Gupta,"London, UK",Yes,Yes,Yes,7856.87
+Aarohi Sinha,Mathura,Yes,Yes,Yes,1640.99
+Deepika Goswami,Srinagar,Yes,No,Yes,2343.75
+Gopal Deshmukh,Guntur,No,No,Yes,709.46
+Zohra Naidu,Guntur,Yes,Yes,Yes,709.46
+Nitin Reddy,Neemuch,No,Yes,Yes,1297.38
+Kajal Jha,"Osaka, Japan",No,Yes,Yes,6528.98
+Divya Menon,Raebareli,Yes,No,Yes,1615.24
+Esha Jha,"Caracas, Venezuela",Yes,No,Yes,15072.33
+Yogesh Prasad,Tirupati,No,No,Yes,501.24
+Girish Menon,Bharatpur,No,Yes,Yes,1582.68
+Pankaj Mishra,"Milan, Italy",Yes,No,Yes,7102.28
+Chirag Mehta,Guwahati,No,No,Yes,2297.74
+Saurabh Naidu,Nizamabad,No,Yes,Yes,725.72
+Yashwant Iyer,Jodhpur,Yes,No,Yes,1493.69
+Bhavya Nair,Gandhinagar,Yes,No,Yes,1164.64
+Devansh Goswami,Alwar,Yes,Yes,Yes,1615.74
+Nisha Verma,Jamnagar,No,Yes,Yes,1173.86
+Charulata Menon,"Porto Alegre, Brazil",No,No,Yes,14186.38
+Yamini Shetty,Dharwad,No,No,Yes,273.45
+Zubin Kapoor,Una,Yes,No,Yes,6547.94
+Mona Deshmukh,"Ottawa, Canada",Yes,No,Yes,12901.41
+Dhanush Menon,"Krakow, Poland",Yes,Yes,Yes,6441.84
+Sonia Rao,Silchar,No,Yes,Yes,2299.91
+Charulata Menon,"Luxembourg City, Luxembourg",No,Yes,Yes,7394.2
+Bhavya Nair,"Oslo, Norway",No,No,Yes,7340.18
+Tanmay Chauhan,"Lisbon, Portugal",Yes,No,Yes,8608.42
+Gopal Jha,"Victoria, Canada",Yes,Yes,Yes,12976.59
+Eshan Nair,Satna,No,No,Yes,1445.13
+Samar Nair,Pune,Yes,Yes,Yes,629.69
+Damini Sinha,Almora,Yes,No,Yes,1918.02
+Tanvi Verma,Itanagar,Yes,No,Yes,2508.2
+Raghav Reddy,Midnapore,Yes,Yes,Yes,1688.8
+Heena Jha,"San Francisco, USA",Yes,Yes,Yes,14112.29
+Indrajit Gupta,Betul,Yes,No,Yes,1042.73
+Farah Kapoor,"Accra, Ghana",No,Yes,Yes,8263.33
+Tarun Shetty,Amritsar,Yes,No,Yes,2073.25
+Pooja Sharma,"Luxembourg City, Luxembourg",No,Yes,Yes,7394.2
+Aniket Sinha,Belgaum,Yes,Yes,Yes,327.81
+Hina Reddy,Betul,Yes,No,Yes,1042.73
+Yashwant Iyer,Asansol,Yes,No,Yes,1748.26
+Garima Deshmukh,Ghazipur,Yes,Yes,Yes,1672.01
+Esha Jha,"Riyadh, Saudi Arabia",Yes,No,Yes,3321.87
+Yogesh Prasad,"Berlin, Germany",No,Yes,Yes,6958.28
+Keshav Nair,Jhunjhunu,Yes,Yes,Yes,1680.1
+Jagdish Sinha,Rudrapur,No,Yes,Yes,1838.92
+Jagdish Mehta,Daltonganj,No,No,Yes,1567.97
+Jatin Iyer,"Edinburgh, UK",No,No,Yes,8083.0
+Gaurav Verma,Pune,Yes,Yes,Yes,629.69
+Vikas Das,Haldwani,No,Yes,Yes,1868.38
+Simran Gupta,Shahjahanpur,No,No,Yes,1736.68
+Oma Nair,Rishikesh,No,Yes,Yes,1936.58
+Bhavya Nair,Gandhinagar,No,Yes,Yes,1164.64
+Oindrila Mehta,Chaibasa,No,Yes,Yes,1576.24
+Vandana Rao,Agra,No,No,Yes,1612.7
+Lalit Rao,"Phoenix, USA",No,Yes,Yes,14821.35
+Harsh Bhatt,Srinagar,Yes,Yes,Yes,2343.75
+Chandan Aggarwal,Firozabad,Yes,No,Yes,1624.97
+Kavita Bhatt,Nellore,Yes,Yes,Yes,580.49
+Uday Kapoor,Bhopal,No,Yes,Yes,1176.14
+Aaditya Sharma,"Córdoba, Argentina",Yes,No,Yes,15368.2
+Girish Menon,Etawah,No,No,Yes,1590.63
+Gitanjali Goswami,"Oslo, Norway",Yes,Yes,Yes,7340.18
+Prakash Rao,"Raleigh, USA",No,No,Yes,13941.46
+Harish Chauhan,Hoshangabad,No,Yes,Yes,1129.28
+Eshita Kapoor,Mehsana,Yes,No,Yes,1211.58
+Sonia Rao,Ghazipur,No,Yes,Yes,1672.01
+Zayan Aggarwal,Yamunanagar,Yes,Yes,Yes,1921.94
+Vaishali Yadav,"Boston, USA",Yes,No,Yes,12968.74
+Damini Sinha,"Portland, USA",Yes,No,Yes,13298.63
+Tejas Yadav,"Sydney, Australia",Yes,Yes,Yes,9580.09
+Zubin Kapoor,Aizawl,Yes,Yes,Yes,2234.48
+Laxman Bhatt,Haridwar,No,No,Yes,1915.35
+Siddharth Gupta,Porbandar,No,No,Yes,1114.92
+Hina Aggarwal,Bhopal,Yes,Yes,Yes,1176.14
+Pranav Shetty,"Rio de Janeiro, Brazil",No,No,Yes,13421.77
+Rashmi Gupta,"Seattle, USA",Yes,Yes,Yes,13088.68
+Eshwar Shetty,Vijayawada,Yes,Yes,Yes,736.92
+Raghav Rao,Moradabad,No,Yes,Yes,1814.51
+Tarun Shetty,Visakhapatnam,Yes,No,Yes,1048.75
+Parul Khan,Karimnagar,Yes,No,Yes,763.68
+Gitanjali Goswami,Lohardaga,No,No,Yes,1564.22
+Ishan Nair,Tehri,No,No,Yes,1970.36
+Oma Nair,Hazaribagh,No,Yes,Yes,1668.85
+Ishan Nair,"Amsterdam, Netherlands",Yes,No,Yes,7521.79
+Yasmin Mishra,"Mombasa, Kenya",No,Yes,Yes,4319.33
+Damini Sinha,"Austin, USA",No,No,Yes,15160.97
+Gopal Deshmukh,Tehri,No,Yes,Yes,1970.36
+Farah Kapoor,"Oslo, Norway",Yes,No,Yes,7340.18
+Ekta Thakur,Udaipur,Yes,No,Yes,1297.03
+Vihan Gupta,Deoria,Yes,No,Yes,1761.7
+Feroz Nair,"Pittsburgh, USA",No,No,Yes,13555.95
+Tarun Shetty,"Edinburgh, UK",No,Yes,Yes,8083.0
+Harsha Thakur,"Prague, Czech Republic",No,No,Yes,6817.29
+Jeevan Reddy,Jalandhar,No,No,Yes,2036.48
+Ramesh Iyer,Asansol,No,No,Yes,1748.26
+Feroz Nair,Farrukhabad,Yes,No,Yes,1678.6
+Utkarsh Mishra,"Brasília, Brazil",Yes,Yes,Yes,14373.09
+Darshan Desai,"Stuttgart, Germany",Yes,No,Yes,7160.43
+Zara Nair,Jaunpur,No,No,Yes,1634.96
+Faisal Goswami,Ghazipur,No,No,Yes,1672.01
+Faisal Goswami,Palampur,Yes,Yes,Yes,2132.71
+Sonia Rao,Una,No,Yes,Yes,6547.94
+Farzana Sinha,Sivasagar,Yes,No,Yes,2584.53
+Karan Thakur,Jamshedpur,Yes,Yes,Yes,1624.45
+Govind Sinha,Ghazipur,Yes,Yes,Yes,1672.01
+Ahaan Kumar,"Pittsburgh, USA",No,No,Yes,13555.95
+Omkar Bhatt,"Nagoya, Japan",No,Yes,Yes,6661.39
+Juhi Deshmukh,Vapi,Yes,No,Yes,851.21
+Omkar Khan,Pune,Yes,Yes,Yes,629.69
+Omkar Bhatt,Moradabad,No,Yes,Yes,1814.51
+Eklavya Chauhan,Gurugram,Yes,No,Yes,1736.43
+Ipsita Aggarwal,"San Francisco, USA",No,Yes,Yes,14112.29
+Nitin Reddy,Farrukhabad,Yes,Yes,Yes,1678.6
+Saurabh Naidu,Jorhat,Yes,Yes,Yes,2534.96
+Kartik Verma,"Riga, Latvia",No,Yes,Yes,6494.43
+Nitin Reddy,Mandsaur,No,No,Yes,1257.43
+Zayan Aggarwal,Kharagpur,No,Yes,Yes,1681.57
+Dilip Prasad,"Nairobi, Kenya",Yes,No,Yes,4484.65
+Mohan Khan,"Warsaw, Poland",No,Yes,Yes,6457.25
+Oma Nair,Navsari,No,Yes,Yes,912.85
+Pranav Shetty,"Algiers, Algeria",No,No,Yes,7547.94
+Govind Sinha,Kavaratti,No,Yes,Yes,354.64
+Keshav Sharma,Nashik,Yes,Yes,Yes,793.59
+Meera Khan,"Brno, Czech Republic",Yes,No,Yes,6640.82
+Karan Thakur,Solan,No,No,Yes,7675.21
+Lokesh Gupta,Bareilly,No,Yes,Yes,1784.52
+Madhav Mishra,Jhansi,Yes,No,Yes,1452.18
+Deepak Deshmukh,Jagdalpur,No,Yes,Yes,1026.85
+Manish Iyer,Surat,No,No,Yes,942.96
+Mona Deshmukh,Dharwad,No,Yes,Yes,273.45
+Aniket Sinha,"Córdoba, Argentina",Yes,Yes,Yes,15368.2
+Ramesh Iyer,Hubli,No,Yes,Yes,271.43
+Tanmay Chauhan,Kolkata,No,Yes,Yes,1785.47
+Dipti Chauhan,"Riyadh, Saudi Arabia",Yes,Yes,Yes,3321.87
+Eshwar Shetty,Jammu,No,No,Yes,2193.33
+Uday Yadav,Kanpur,Yes,No,Yes,1604.8
+Harsh Bhatt,"Seoul, South Korea",No,Yes,Yes,5826.0
+Pratap Mehta,Anantapur,No,No,Yes,342.91
+Zara Nair,"Athens, Greece",No,Yes,Yes,5751.53
+Aditi Prasad,Bhiwadi,Yes,No,Yes,1705.29
+Ekta Thakur,Jaunpur,Yes,Yes,Yes,1634.96
+Uma Rao,"Montreal, Canada",Yes,No,Yes,12803.12
+Damini Sinha,Tinsukia,No,Yes,Yes,2674.85
+Imran Aggarwal,Satna,Yes,No,Yes,1445.13
+Karan Thakur,Banda,Yes,No,Yes,1510.53
+Rashmi Gupta,"Boston, USA",Yes,No,Yes,12968.74
+Vihan Mishra,"San Francisco, USA",Yes,No,Yes,14112.29
+Vihan Gupta,Warangal,Yes,Yes,Yes,757.08
+Gopal Jha,"Krakow, Poland",No,No,Yes,6441.84
+Oorja Rao,Patna,Yes,Yes,Yes,1770.09
+Falguni Bhatt,Ajmer,No,No,Yes,1500.77
+Oindrila Gupta,"Marseille, France",Yes,Yes,Yes,7378.63
+Ekansh Jha,"Porto, Portugal",No,Yes,Yes,8534.56
+Zaina Naidu,"Edinburgh, UK",No,Yes,Yes,8083.0
+Mohan Goswami,Hamirpur,No,No,Yes,1519.71
+Yash Das,"Salt Lake City, USA",Yes,No,Yes,14021.65
+Bhuvan Thakur,"Durban, South Africa",Yes,No,Yes,6671.54
+Lalit Rao,Coimbatore,Yes,Yes,Yes,312.09
+Nirav Das,Dharamshala,Yes,Yes,Yes,2142.63
+Prerna Mehta,Yamunanagar,Yes,No,Yes,1921.94
+Damini Sinha,Silchar,No,No,Yes,2299.91
+Dhanush Menon,"Boston, USA",Yes,No,Yes,12968.74
+Nikhil Jha,Mau,Yes,No,Yes,1711.52
+Laxman Bhatt,"Copenhagen, Denmark",Yes,Yes,Yes,7105.24
+Harsh Bhatt,"Dhaka, Bangladesh",No,No,Yes,2031.18
+Abhishek Yadav,Ranchi,Yes,Yes,Yes,1600.57
+Pranav Verma,Hong Kong,Yes,No,Yes,4288.73
+Eshwar Shetty,Vadodara,Yes,No,Yes,1053.34
+Harsha Thakur,Katni,Yes,Yes,Yes,1324.82
+Ishita Nair,"Seattle, USA",Yes,Yes,Yes,13088.68
+Mona Deshmukh,Hisar,Yes,Yes,Yes,1810.36
+Hina Reddy,Imphal,No,Yes,Yes,2397.98
+Jatin Iyer,Singapore,No,Yes,Yes,3439.48
+Rohan Sharma,"Denver, USA",Yes,No,Yes,14175.12
+Chirag Mehta,Shahjahanpur,Yes,No,Yes,1736.68
+Zayan Prasad,Kolhapur,No,No,Yes,424.41
+Uma Rao,Giridih,No,No,Yes,1735.53
+Darshan Desai,"Auckland, New Zealand",No,No,Yes,11738.38
+Utkarsh Mishra,Moradabad,Yes,No,Yes,1814.51
+Vidya Iyer,Karimnagar,No,Yes,Yes,763.68
+Prerna Mehta,"Caracas, Venezuela",No,No,Yes,15072.33
+Jeevan Reddy,Almora,Yes,No,Yes,1918.02
+Uday Yadav,Nellore,No,Yes,Yes,580.49
+Fardeen Kapoor,"Munich, Germany",Yes,No,Yes,6973.19
+Sonia Rao,Baramulla,No,Yes,Yes,2359.17
+Vivek Rao,Madurai,Yes,Yes,Yes,485.42
+Hardik Reddy,Porbandar,No,No,Yes,1114.92
+Tara Khan,Hoshangabad,No,Yes,Yes,1129.28
+Jatin Iyer,Guntur,Yes,Yes,Yes,709.46
+Aditi Prasad,"Boston, USA",Yes,No,Yes,12968.74
+Manish Sharma,Chandigarh,Yes,Yes,Yes,1983.09
+Chirag Mehta,"Abuja, Nigeria",Yes,Yes,Yes,7355.58
+Zayan Aggarwal,Itanagar,Yes,No,Yes,2508.2
+Pankaj Mishra,"Milan, Italy",Yes,No,Yes,7102.28
+Bhavin Joshi,"Incheon, South Korea",Yes,No,Yes,5799.64
+Bhavesh Shetty,Kavaratti,Yes,No,Yes,354.64
+Eshwar Reddy,"Penang, Malaysia",No,No,Yes,2909.93
+Prerna Mehta,"Shanghai, China",No,Yes,Yes,5174.01
+Bhuvan Thakur,Vadodara,No,Yes,Yes,1053.34
+Bhavin Joshi,"Medellín, Colombia",Yes,Yes,Yes,16131.4
+Chhavi Nair,Gonda,Yes,No,Yes,1735.82
+Divya Menon,Junagadh,Yes,No,Yes,1061.05
+Harini Thakur,Bankura,No,Yes,Yes,1727.24
+Gaurav Verma,"Geneva, Switzerland",No,Yes,Yes,7347.1
+Laxman Bhatt,Coimbatore,Yes,Yes,Yes,312.09
+Harsh Bhatt,"Sydney, Australia",No,No,Yes,9580.09
+Harsh Bhatt,Etah,No,No,Yes,1667.09
+Prerna Mehta,"Hangzhou, China",No,Yes,Yes,5032.51
+Oindrila Mehta,Pulwama,Yes,Yes,Yes,2329.88
+Tarun Shetty,"Manila, Philippines",Yes,No,Yes,4983.42
+Sneha Khan,"Seattle, USA",No,No,Yes,13088.68
+Pooja Sharma,Seoni,Yes,Yes,Yes,1157.21
+Vidya Iyer,"Ottawa, Canada",No,Yes,Yes,12901.41
+Fardeen Kapoor,"London, UK",Yes,Yes,Yes,7856.87
+Nitin Reddy,Hubli,No,No,Yes,271.43
+Lavanya Bhatt,Sehore,Yes,No,Yes,1152.99
+Saurabh Naidu,"Lima, Peru",Yes,Yes,Yes,16980.51
+Vikas Das,Unnao,No,Yes,Yes,1627.01
+Lokesh Aggarwal,Tinsukia,No,Yes,Yes,2674.85
+Yash Das,Chittorgarh,Yes,No,Yes,1307.14
+Ishan Nair,Ratlam,Yes,No,Yes,1172.0
+Oorja Rao,Pondicherry,No,Yes,Yes,582.85
+Simran Gupta,"Eindhoven, Netherlands",Yes,Yes,Yes,7467.58
+Raghav Rao,"Helsinki, Finland",Yes,Yes,Yes,6624.31
+Tanmay Chauhan,Thrissur,No,Yes,Yes,302.75
+Manish Iyer,Gandhinagar,No,Yes,Yes,1164.64
+Gopal Deshmukh,Anantapur,No,Yes,Yes,342.91
+Aarohi Sinha,"London, UK",Yes,No,Yes,7856.87
+Vihan Sinha,"Tokyo, Japan",Yes,Yes,Yes,6924.93
+Damini Sinha,Faizabad,Yes,Yes,Yes,2966.36
+Divya Menon,"Vancouver, Canada",Yes,Yes,Yes,12895.59
+Arjun Prasad,"Osaka, Japan",Yes,Yes,Yes,6528.98
+Vihan Sinha,Vijayawada,Yes,Yes,Yes,736.92
+Oindrila Mehta,"Raleigh, USA",No,Yes,Yes,13941.46
+Vihan Gupta,"Krakow, Poland",No,Yes,Yes,6441.84
+Isha Goswami,"Brisbane, Australia",Yes,No,Yes,9533.1
+Gaurav Verma,Guntur,Yes,No,Yes,709.46
+Tanmay Naidu,Tirupati,Yes,Yes,Yes,501.24
+Urvashi Naidu,Allahabad (Prayagraj),No,Yes,Yes,1567.71
+Lokesh Gupta,Sitapur,No,No,Yes,1730.86
+Raghav Reddy,"Cape Town, South Africa",Yes,No,Yes,7906.46
+Samar Iyer,Ahmedabad,No,No,Yes,1144.31
+Aarushi Shetty,"Pittsburgh, USA",Yes,No,Yes,13555.95
+Mohan Goswami,Dantewada,No,Yes,Yes,959.99
+Yashwant Iyer,"Brno, Czech Republic",No,No,Yes,6640.82
+Sneha Khan,Leh,Yes,Yes,Yes,2369.81
+Zeeshan Shetty,Vadodara,Yes,Yes,Yes,1053.34
+Tanvi Verma,Thiruvananthapuram,No,Yes,Yes,540.36
+Charulata Menon,"Brno, Czech Republic",No,Yes,Yes,6640.82
+Ishan Nair,Port Blair,No,Yes,Yes,1949.91
+Prakash Rao,Lucknow,Yes,Yes,Yes,1666.92
+Varun Menon,Daltonganj,No,No,Yes,1567.97
+Tanvi Verma,Durgapur,Yes,Yes,Yes,1765.71
+Isha Goswami,Palwal,Yes,Yes,Yes,1696.34
+Damini Sinha,Haridwar,Yes,No,Yes,1915.35
+Advik Gupta,Kurukshetra,No,Yes,Yes,1899.65
+Pankaj Mishra,"Tokyo, Japan",Yes,Yes,Yes,6924.93
+Dhanush Menon,Sikar,No,Yes,Yes,1632.93
+Yogesh Prasad,"Brasília, Brazil",No,Yes,Yes,14373.09
+Harish Chauhan,"Phoenix, USA",Yes,No,Yes,14821.35
+Aarohi Sinha,"Atlanta, USA",Yes,Yes,Yes,14395.12
+Pankaj Mishra,Dehradun,No,No,Yes,1955.72
+Hina Aggarwal,"Bologna, Italy",Yes,Yes,Yes,6918.04
+Devendra Thakur,Korba,No,Yes,Yes,1344.98
+Samar Iyer,Eluru,Yes,No,Yes,793.85
+Uday Sharma,Dharamshala,No,No,Yes,2142.63
+Lata Gupta,Haridwar,No,No,Yes,1915.35
+Ramesh Iyer,"Dubai, UAE",Yes,No,Yes,2464.59
+Chhavi Nair,"Kaohsiung, Taiwan",No,Yes,Yes,4918.91
+Faizan Nair,Satna,Yes,No,Yes,1445.13
+Aditi Prasad,Navsari,Yes,No,Yes,912.85
+Urvashi Verma,"Rome, Italy",Yes,No,Yes,6781.0
+Jagdish Mehta,Chhindwara,No,Yes,Yes,1110.22
+Faisal Goswami,Jodhpur,No,Yes,Yes,1493.69
+Harish Chauhan,Guntur,No,No,Yes,709.46
+Sandeep Prasad,"Auckland, New Zealand",Yes,Yes,Yes,11738.38
+Fardeen Kapoor,"Manila, Philippines",Yes,No,Yes,4983.42
+Nandini Reddy,Ludhiana,Yes,No,Yes,1995.3
+Vihan Sinha,Etawah,No,Yes,Yes,1590.63
+Sneha Khan,Tehri,Yes,No,Yes,1970.36
+Eklavya Chauhan,"Asunción, Paraguay",No,No,Yes,14876.29
+Girish Mehta,Nainital,Yes,Yes,Yes,1885.39
+Jasmine Goswami,Deoria,Yes,No,Yes,1761.7
+Imran Aggarwal,Ludhiana,No,No,Yes,1995.3
+Manish Sharma,"Doha, Qatar",No,No,Yes,2803.8
+Jaya Jha,Ambala,Yes,No,Yes,1944.52
+Lalit Rao,"Brasília, Brazil",No,No,Yes,14373.09
+Uday Kapoor,Coimbatore,No,Yes,Yes,312.09
+Deepak Deshmukh,"Manila, Philippines",Yes,No,Yes,4983.42
+Jagdish Mehta,"Warsaw, Poland",No,Yes,Yes,6457.25
+Laxman Bhatt,"Waterloo, Canada",No,Yes,Yes,13281.33
+Falguni Bhatt,Thiruvananthapuram,No,No,Yes,540.36
+Jagdish Sinha,Jammu,No,No,Yes,2193.33
+Nikhil Verma,Beawar,No,No,Yes,1460.73
+Uma Rao,Hisar,Yes,No,Yes,1810.36
+Hina Reddy,Kota,No,No,Yes,1361.15
+Siddharth Gupta,Pune,No,No,Yes,629.69
+Pranav Deshmukh,"Cebu, Philippines",No,Yes,Yes,5338.59
+Aaditya Sharma,"Lima, Peru",Yes,No,Yes,16980.51
+Hardik Reddy,Lohardaga,Yes,Yes,Yes,1564.22
+Nitin Reddy,"Toulouse, France",No,No,Yes,7697.73
+Trisha Iyer,Tiruchirappalli,No,No,Yes,478.16
+Meera Reddy,Beawar,Yes,Yes,Yes,1460.73
+Varun Menon,"Vilnius, Lithuania",No,Yes,Yes,6312.78
+Nirav Das,Dumka,No,Yes,Yes,1811.65
+Ojas Yadav,"Stockholm, Sweden",Yes,No,Yes,6928.45
+Heena Jha,"San Diego, USA",Yes,No,Yes,14796.67
+Lalit Mehta,Patna,Yes,Yes,Yes,1770.09
+Nandini Reddy,"Beijing, China",No,Yes,Yes,5054.52
+Bhavesh Shetty,"Brisbane, Australia",Yes,No,Yes,9533.1
+Kavita Bhatt,"Santiago, Chile",No,No,Yes,15855.3
+Eshita Kapoor,Rewari,No,Yes,Yes,1701.76
+Hina Reddy,"Luxembourg City, Luxembourg",No,Yes,Yes,7394.2
+Mohan Khan,Amritsar,No,Yes,Yes,2073.25
+Aditi Prasad,Dhamtari,No,No,Yes,1115.76
+Dilip Prasad,"Melbourne, Australia",No,No,Yes,9201.73
+Varun Menon,Mau,Yes,No,Yes,1711.52
+Eshwar Reddy,Yamunanagar,No,No,Yes,1921.94
+Zubin Kapoor,Rohtak,Yes,No,Yes,1779.08
+Nikhil Jha,Mussoorie,Yes,No,Yes,1970.64
+Ekta Chauhan,"Bali, Indonesia",Yes,Yes,Yes,5036.11
+Madhav Mishra,Surat,Yes,Yes,Yes,942.96
+Faisal Bhatt,Dehradun,No,Yes,Yes,1955.72
+Rajesh Das,"Madrid, Spain",Yes,Yes,Yes,8127.57
+Keshav Sharma,"Manchester, UK",Yes,Yes,Yes,8010.68
+Faisal Bhatt,Jammu,Yes,No,Yes,2193.33
+Leela Deshmukh,Kolkata,Yes,Yes,Yes,1785.47
+Harini Thakur,Jammu,No,No,Yes,2193.33
+Harsha Thakur,Asansol,No,Yes,Yes,1748.26
+Deepika Goswami,"Guangzhou, China",Yes,No,Yes,4206.65
+Pooja Sharma,"Munich, Germany",Yes,Yes,Yes,6973.19
+Advik Gupta,Beawar,No,No,Yes,1460.73
+Uday Sharma,Bhubaneswar,Yes,Yes,Yes,1425.5
+Uma Das,Visakhapatnam,Yes,Yes,Yes,1048.75
+Deepak Deshmukh,"Algiers, Algeria",Yes,No,Yes,7547.94
+Bharat Jha,"Medellín, Colombia",Yes,Yes,Yes,16131.4
+Umesh Nair,"Bologna, Italy",Yes,Yes,Yes,6918.04
+Madhur Deshmukh,"Calgary, Canada",No,No,Yes,12866.2
+Nikhil Verma,Durgapur,No,Yes,Yes,1765.71
+Prerna Mehta,"Budapest, Hungary",Yes,Yes,Yes,6414.19
+Harish Sharma,"Alexandria, Egypt",Yes,Yes,Yes,5019.65
+Raghav Rao,"Osaka, Japan",Yes,No,Yes,6528.98
+Damini Sinha,"Vienna, Austria",Yes,Yes,Yes,6627.98
+Pooja Sharma,Saharanpur,No,Yes,Yes,1909.93
+Meera Khan,Rudrapur,Yes,Yes,Yes,1838.92
+Chandan Das,"Chengdu, China",Yes,No,Yes,3584.46
+Ritika Naidu,"Calgary, Canada",Yes,No,Yes,12866.2
+Eklavya Chauhan,Bharatpur,Yes,No,Yes,1582.68
+Karan Thakur,Ujjain,Yes,Yes,Yes,1141.32
+Kiran Reddy,"Denver, USA",No,Yes,Yes,14175.12
+Girish Menon,"Amsterdam, Netherlands",No,Yes,Yes,7521.79
+Lokesh Gupta,Bangalore,Yes,No,Yes,300.3
+Zubin Kapoor,Navsari,No,Yes,Yes,912.85
+Uday Yadav,Noida,Yes,Yes,Yes,1752.31
+Bhaskar Kapoor,"Santiago, Chile",Yes,No,Yes,15855.3
+Mitali Mehta,"Madrid, Spain",No,Yes,Yes,8127.57
+Aarav Patel,Agartala,No,Yes,Yes,2111.76
+Saurabh Naidu,"Riga, Latvia",No,Yes,Yes,6494.43
+Ishan Nair,Bikaner,Yes,No,Yes,1679.63
+Ekta Chauhan,"São Paulo, Brazil",Yes,No,Yes,13773.18
+Lakshay Yadav,Nellore,Yes,No,Yes,580.49
+Kavita Bhatt,Singapore,No,No,Yes,3439.48
+Yash Thakur,"Asunción, Paraguay",Yes,No,Yes,14876.29
+Kamal Jha,Lohardaga,No,Yes,Yes,1564.22
+Tanmay Chauhan,"Algiers, Algeria",Yes,No,Yes,7547.94
+Gopal Jha,"Geneva, Switzerland",No,Yes,Yes,7347.1
+Kamal Jha,"São Paulo, Brazil",No,No,Yes,13773.18
+Urvashi Verma,Sitapur,Yes,No,Yes,1730.86
+Darshan Desai,"Auckland, New Zealand",Yes,Yes,Yes,11738.38
+Darshan Desai,"Bucharest, Romania",No,No,Yes,5785.14
+Ramesh Iyer,Nashik,Yes,No,Yes,793.59
+Omkar Prasad,"Geneva, Switzerland",Yes,No,Yes,7347.1
+Hardik Reddy,Midnapore,No,No,Yes,1688.8
+Tushar Khan,Kavaratti,No,No,Yes,354.64
+Ishaan Rao,"Bristol, UK",No,No,Yes,8027.0
+Vaishali Yadav,Almora,No,Yes,Yes,1918.02
+Yashwant Iyer,"Berlin, Germany",Yes,Yes,Yes,6958.28
+Yuvraj Chauhan,"Kampala, Uganda",No,No,Yes,4867.14
+Nikhil Jha,Kota,Yes,Yes,Yes,1361.15
+Pranav Shetty,Bhilwara,Yes,No,Yes,1393.12
+Lokesh Gupta,"New York City, USA",Yes,Yes,Yes,13261.27
+Deepika Goswami,"Belo Horizonte, Brazil",Yes,No,Yes,13483.85
+Farzana Sinha,"London, UK",No,No,Yes,7856.87
+Farzana Sinha,"Budapest, Hungary",Yes,Yes,Yes,6414.19
+Zohra Das,"Porto Alegre, Brazil",No,No,Yes,14186.38
+Ipsita Aggarwal,"Copenhagen, Denmark",Yes,Yes,Yes,7105.24
+Yasmin Mishra,"Madrid, Spain",No,Yes,Yes,8127.57
+Neha Sharma,Satna,No,No,Yes,1445.13
+Uday Sharma,"Tunis, Tunisia",Yes,Yes,Yes,6912.56
+Raghav Reddy,"Belo Horizonte, Brazil",Yes,No,Yes,13483.85
+Nandini Reddy,Banda,No,No,Yes,1510.53
+Jatin Iyer,Hyderabad,Yes,Yes,Yes,627.06
+Aaditya Sharma,"Lyon, France",Yes,No,Yes,7443.65
+Meera Reddy,Bangalore,No,Yes,Yes,300.3
+Om Gupta,Midnapore,Yes,No,Yes,1688.8
+Meera Khan,Chandigarh,Yes,No,Yes,1983.09
+Oma Nair,Moradabad,No,Yes,Yes,1814.51
+Barkha Shetty,Firozabad,Yes,Yes,Yes,1624.97
+Chhavi Nair,Tinsukia,Yes,Yes,Yes,2674.85
+Yash Das,Gwalior,No,No,Yes,1511.19
+Prakash Rao,Tezpur,Yes,No,Yes,2407.76
+Oorja Rao,"Budapest, Hungary",Yes,No,Yes,6414.19
+Pankaj Mishra,Sehore,No,No,Yes,1152.99
+Jagdish Sinha,"Krakow, Poland",No,Yes,Yes,6441.84
+Aakash Goswami,Jaunpur,Yes,No,Yes,1634.96
+Bhavin Joshi,"Brasília, Brazil",Yes,Yes,Yes,14373.09
+Esha Jha,"Pretoria, South Africa",Yes,No,Yes,6622.74
+Tarun Shetty,"Zurich, Switzerland",No,No,Yes,7182.56
+Abhinav Singh,Kurukshetra,Yes,Yes,Yes,1899.65
+Aditi Prasad,"Bologna, Italy",No,No,Yes,6918.04
+Bhavna Thakur,Allahabad (Prayagraj),Yes,No,Yes,1567.71
+Lata Gupta,"Incheon, South Korea",No,No,Yes,5799.64
+Dhanush Menon,Banda,Yes,No,Yes,1510.53
+Trisha Iyer,"Montevideo, Uruguay",No,Yes,Yes,14546.1
+Pranav Deshmukh,Patna,Yes,No,Yes,1770.09
+Uma Das,Sivasagar,No,Yes,Yes,2584.53
+Dhanush Menon,Ludhiana,No,No,Yes,1995.3
+Gopal Deshmukh,Ahmedabad,Yes,No,Yes,1144.31
+Pranav Deshmukh,Mumbai,No,Yes,Yes,712.01
+Zoravar Naidu,"Tallinn, Estonia",No,No,Yes,6593.54
+Harsh Bhatt,Unnao,No,No,Yes,1627.01
+Abhishek Yadav,"Belo Horizonte, Brazil",No,Yes,Yes,13483.85
+Harsh Bhatt,"Rome, Italy",Yes,No,Yes,6781.0
+Zoravar Naidu,"Cebu, Philippines",No,No,Yes,5338.59
+Madhav Mishra,"Rotterdam, Netherlands",Yes,Yes,Yes,7543.35
+Bhuvan Thakur,Leh,No,Yes,Yes,2369.81
+Ahaan Kumar,Nainital,No,No,Yes,1885.39
+Devansh Goswami,Gandhinagar,No,Yes,Yes,1164.64
+Yash Das,"Pretoria, South Africa",Yes,No,Yes,6622.74
+Jaya Jha,Mehsana,Yes,No,Yes,1211.58
+Farah Kapoor,"Tokyo, Japan",No,No,Yes,6924.93
+Leela Nair,"Minneapolis, USA",Yes,No,Yes,13482.98
+Vidya Iyer,Leh,Yes,No,Yes,2369.81
+Vidya Prasad,Hyderabad,Yes,No,Yes,627.06
+Sneha Khan,Kullu,Yes,Yes,Yes,2121.51
